@@ -1,0 +1,24 @@
+# IDE
+.idea
+.vs
+.vscode
+*.user
+
+# Build
+build/
+out/
+
+# Conan & CMake
+CMakeUserPresets.json
+conanbuildinfo.*
+CMakeCache.txt
+CMakeFiles/
+
+# Python
+.venv
+
+# Compiled
+*.obj
+*.exe
+*.dll
+*.pdb
